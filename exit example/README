@@ -1,0 +1,5 @@
+There are 2 files included as an example.
+
+index.php - Here is example code for an exit intent popup.  You will need to copy the javascript libraries and insert your own html for your popup.
+
+parsubmit.php - Here is an example submit for using the API for single opt in.  You will need to edit the variables from your form and PAR account.
